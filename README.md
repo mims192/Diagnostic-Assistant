@@ -55,19 +55,19 @@ streamlit run app.py
 
 Usage-:
 
-1. Dashboard (Chatbot)
+1.Dashboard (Chatbot)
 
 Users can type or speak their symptoms.
 
 The chatbot provides analysis and recommendations based on medical AI.
 
-2. Image Analysis
+2.Image Analysis
 
 Upload a medical image (PNG, JPG, JPEG).
 
 AI processes the image and provides a detailed report.
 
-3. Blood Report Analysis
+3.Blood Report Analysis
 
 Enter gender, age, haemoglobin, platelet count, WBC count.
 
@@ -75,9 +75,9 @@ ML model predicts health condition (e.g., Anemia, Leukemia).
 
 Model Information-:
 
-1. Uses a Random Forest Model for blood report analysis.
+1.Uses a Random Forest Model for blood report analysis.
 
-2. Utilizes Google's Gemini AI for text and image-based diagnosis.
+2.Utilizes Google's Gemini AI for text and image-based diagnosis.
 
 Future Enhancements:
 1. Personalized Health Reports: Provide detailed patient-specific health insights and progress tracking.
